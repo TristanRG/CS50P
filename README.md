@@ -1,7 +1,7 @@
 CS50’s Introduction to Programming with Python all problem sets
 # Problem Sets Repository
 
-This repository contains the solutions to the problem sets for CS50. Each folder corresponds to a specific problem set. Click on any problem set to navigate to its folder.
+This repository contains the solutions to the problem sets for CS50P. Each folder corresponds to a specific problem set. Click on any problem set to navigate to its folder.
 
 ## Problem Sets
 
